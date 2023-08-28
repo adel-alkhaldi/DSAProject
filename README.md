@@ -1,6 +1,6 @@
  <h1 align=center> <u>Report:</u> </h1>
 
-<h2 align = center> - **<u>General Structure:</u>** </h2>
+<h2 align = center> - <u>General Structure:</u>  </h2>
 
  The general structure for the project (HashMap) is as follows:
  
@@ -16,7 +16,7 @@
  file directory as the project. It also contains an inner class called
  Node with an ADT of LinkedList Nodes.
 
-<h2 align = center> - **<u>Method Explanation & Big O Notation:</u>** </h2>
+<h2 align = center> -  <u>Method Explanation & Big O Notation:</u>  </h2>
 
 <!-- -->
 
@@ -168,7 +168,7 @@ exactly the same as the LinkedList…
 *
 
 
-<h2 align = center>- **<u>Test Cases Screenshot:</u>** </h2>
+<h2 align = center>-  <u>Test Cases Screenshot:</u>  </h2>
 
 Test Case Code:
 
@@ -179,7 +179,7 @@ Test Case Output: <img src="./media/image2.jpeg"
 style="width:7.0686in;height:6.20139in" />
 
 
-<h2 align = center>- **<u>References & Resources:</u>**  </h2>
+<h2 align = center>-  <u>References & Resources:</u>   </h2>
 
 <!-- -->
 
