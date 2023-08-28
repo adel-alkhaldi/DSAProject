@@ -1,6 +1,6 @@
-  \*<u>Report:</u>\*
+ <h1 align=center> <u>Report:</u> </h1>
 
-- **<u>General Structure:</u>**
+<h2 align = center> - **<u>General Structure:</u>** </h2>
 
 The general structure for the project (HashMap) is as follows:
 
@@ -16,7 +16,7 @@ the hashMap to a “Project_Test_DataOUTPUT.csv”, all in the same default
 file directory as the project. It also contains an inner class called
 Node with an ADT of LinkedList Nodes.
 
-- **<u>Method Explanation & Big O Notation:</u>**
+<h2 align = center> - **<u>Method Explanation & Big O Notation:</u>** </h2>
 
 <!-- -->
 
@@ -167,7 +167,8 @@ discussed in depth.*
 exactly the same as the LinkedList…  
 *
 
-- **<u>Test Cases Screenshot:</u>**
+
+<h2 align = center>- **<u>Test Cases Screenshot:</u>** </h2>
 
 Test Case Code:
 
@@ -177,7 +178,8 @@ style="width:6.40972in;height:8.10314in" />
 Test Case Output: <img src="./media/image2.jpeg"
 style="width:7.0686in;height:6.20139in" />
 
-- **<u>References & Resources:</u>**
+
+<h2 align = center>- **<u>References & Resources:</u>**  </h2>
 
 <!-- -->
 
