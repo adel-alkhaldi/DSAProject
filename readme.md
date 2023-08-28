@@ -4,46 +4,6 @@
 
 The general structure for the project (HashMap) is as follows:
 
-| MainArray\[SIZE\]\<K,V\> |          |          |         |          |     |     |     |     |          |
-|--------------------------|----------|----------|---------|----------|-----|-----|-----|-----|----------|
-| Index: 0                 | Index: 1 | Index: 2 | Index:3 | Index: 4 | ……. | ……. | ……. | ……… | Index: n |
-
-|          |
-|----------|
-| Node     |
-| Key: K   |
-| Value: V |
-
-|          |
-|----------|
-| Node     |
-| Key: K   |
-| Value: V |
-
-|          |
-|----------|
-| Node     |
-| Key: K   |
-| Value: V |
-
-|          |
-|----------|
-| Node     |
-| Key: K   |
-| Value: V |
-
-|          |
-|----------|
-| Node     |
-| Key: K   |
-| Value: V |
-
-|          |
-|----------|
-| Node     |
-| Key: K   |
-| Value: V |
-
 It relies on a main array that stores LinkedList of nodes (MainArray of
 type Node), the node’s location in the main array is based on the Key
 parameter, which when hashed, determines where the array will be stored,
